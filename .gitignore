@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Claude Code workspace state
+.claude/
+
+# Editor
+.vscode/
+.idea/
+
+# Per-source intermediate output (the orchestrator owns the persisted files
+# in output/seen_urls.json, output/previous_themes.json, output/latest_run.json)
+output/rss_results.json
+output/crunchbase_results.json
+output/twitter_results.json
+output/edgar_results.json
+output/producthunt_results.json
+output/github_results.json
