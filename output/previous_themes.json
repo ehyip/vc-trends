@@ -1,0 +1,101 @@
+{
+  "themes": [
+    {
+      "theme_name": "AI-powered gig economy payments infrastructure",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "MyGigsters"
+      ],
+      "why_now": "The gig economy is growing, and payment infrastructure is needed to support it.",
+      "contrarian_angle": "Investors are overlooking the potential for AI to optimize payments in the gig economy.",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI agent security and verification",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "ClawSecure",
+        "Known Agents"
+      ],
+      "why_now": "As AI agents become more prevalent, security and verification are becoming critical concerns.",
+      "contrarian_angle": "The market is underestimating the importance of AI agent security and verification.",
+      "momentum": "accelerating"
+    },
+    {
+      "theme_name": "AI-powered veterinary care",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "AIFORPET"
+      ],
+      "why_now": "AI is being applied to veterinary care to make it more accessible and affordable.",
+      "contrarian_angle": "Investors are missing the potential for AI to disrupt traditional veterinary care models.",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI-powered clinic administration",
+      "signal_strength": "moderate",
+      "deal_count": 1,
+      "example_companies": [
+        "Zeya Health"
+      ],
+      "why_now": "Healthcare providers are looking for ways to streamline administration and improve efficiency.",
+      "contrarian_angle": "The market is underestimating the potential for AI to transform clinic administration.",
+      "momentum": "steady"
+    },
+    {
+      "theme_name": "Voice AI solutions for enterprise applications",
+      "signal_strength": "moderate",
+      "deal_count": 2,
+      "example_companies": [
+        "Wispr Flow",
+        "voice AI"
+      ],
+      "why_now": "Voice AI is becoming more prevalent in enterprise applications, particularly in customer service.",
+      "contrarian_angle": "Investors are overlooking the potential for voice AI to improve customer experience and reduce costs.",
+      "momentum": "accelerating"
+    },
+    {
+      "theme_name": "AI-powered autonomous commerce",
+      "signal_strength": "moderate",
+      "deal_count": 1,
+      "example_companies": [
+        "Amex Ventures"
+      ],
+      "why_now": "Autonomous commerce is becoming more prevalent, and AI is playing a key role in its development.",
+      "contrarian_angle": "The market is underestimating the potential for AI to transform commerce and retail.",
+      "momentum": "steady"
+    },
+    {
+      "theme_name": "AI data storage and management",
+      "signal_strength": "strong",
+      "deal_count": 2,
+      "example_companies": [
+        "Suprbox",
+        "CacheTray"
+      ],
+      "why_now": "As AI becomes more prevalent, data storage and management are becoming critical concerns.",
+      "contrarian_angle": "Investors are taking AI data storage and management for granted, assuming it's a solved problem.",
+      "momentum": "accelerating"
+    },
+    {
+      "theme_name": "AI-powered software development and testing",
+      "signal_strength": "strong",
+      "deal_count": 3,
+      "example_companies": [
+        "Warp",
+        "Grok Connectors",
+        "articuler.ai"
+      ],
+      "why_now": "AI is being applied to software development and testing to improve efficiency and reduce costs.",
+      "contrarian_angle": "The market is underestimating the potential for AI to transform software development and testing.",
+      "momentum": "accelerating"
+    }
+  ],
+  "biggest_surprise": "The emergence of AI-powered gig economy payments infrastructure as a potential new theme, with MyGigsters being a key player.",
+  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing, as well as AI data storage and management. These themes are gaining traction and are likely to become hot areas of investment.",
+  "sectors_cooling": "None notable at this time.",
+  "weak_signals": "AI-powered veterinary care and AI-powered gig economy payments infrastructure are emerging themes with limited data, but could be significant if they grow."
+}
