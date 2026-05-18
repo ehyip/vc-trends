@@ -84,5 +84,91 @@
     ],
     "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing, as well as AI data storage and management. These themes are gaining traction and are likely to become hot areas of investment.",
     "biggest_surprise": "The emergence of AI-powered gig economy payments infrastructure as a potential new theme, with MyGigsters being a key player."
+  },
+  {
+    "run_time": "2026-05-18T13:42:19.877565+00:00",
+    "filename": "2026-05-18.html",
+    "signal_count": 113,
+    "themes": [
+      {
+        "theme_name": "AI-powered thermal management solutions",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "SizzleAir"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI agent observability and debugging tools",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "Raindrop AI"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI-powered credentialing for healthcare professionals",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "Saile"
+        ],
+        "momentum": "accelerating"
+      },
+      {
+        "theme_name": "AI-driven video production and editing tools",
+        "signal_strength": "moderate",
+        "deal_count": 2,
+        "example_companies": [
+          "Vivago Video Agent",
+          "Loova Agents"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "AI-powered autonomous commerce platforms",
+        "signal_strength": "moderate",
+        "deal_count": 1,
+        "example_companies": [
+          "Amex Ventures"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI data storage and management solutions",
+        "signal_strength": "strong",
+        "deal_count": 2,
+        "example_companies": [
+          "Suprbox",
+          "CacheTray"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "AI-powered software development and testing tools",
+        "signal_strength": "strong",
+        "deal_count": 3,
+        "example_companies": [
+          "Warp",
+          "Grok Connectors",
+          "articuler.ai"
+        ],
+        "momentum": "accelerating"
+      },
+      {
+        "theme_name": "Local AI models and deployment solutions",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "Osaurus",
+          "pixserp"
+        ],
+        "momentum": "new_this_week"
+      }
+    ],
+    "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI-driven video production and editing platforms.",
+    "biggest_surprise": "The emergence of AI-powered thermal management solutions and AI agent observability tools, which may not be on investors' radar yet."
   }
 ]
