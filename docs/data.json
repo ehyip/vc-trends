@@ -170,5 +170,92 @@
     ],
     "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI-driven video production and editing platforms.",
     "biggest_surprise": "The emergence of AI-powered thermal management solutions and AI agent observability tools, which may not be on investors' radar yet."
+  },
+  {
+    "run_time": "2026-05-25T12:58:09.398467+00:00",
+    "filename": "2026-05-25.html",
+    "signal_count": 116,
+    "themes": [
+      {
+        "theme_name": "AI-powered fertility treatment optimization",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "Gaia",
+          "The Path"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI-driven music production and effects",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "Orchestria",
+          "JAMtime.ai"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI-powered autonomous education platforms",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "Maka Kids"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI agent security and encryption",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "DCP"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI-powered thermal management solutions",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "SizzleAir"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "AI data storage and management solutions",
+        "signal_strength": "strong",
+        "deal_count": 2,
+        "example_companies": [
+          "Supaboard",
+          "Suprbox"
+        ],
+        "momentum": "accelerating"
+      },
+      {
+        "theme_name": "AI-powered software development and testing tools",
+        "signal_strength": "strong",
+        "deal_count": 3,
+        "example_companies": [
+          "Warp",
+          "Grok Connectors",
+          "articuler.ai"
+        ],
+        "momentum": "accelerating"
+      },
+      {
+        "theme_name": "Local AI models and deployment solutions",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "Osaurus",
+          "pixserp"
+        ],
+        "momentum": "new_this_week"
+      }
+    ],
+    "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered autonomous education platforms and AI agent security and encryption solutions. These areas are likely to become hot theses as the market recognizes their potential for growth and innovation.",
+    "biggest_surprise": "The emergence of AI-powered fertility treatment optimization and AI-driven music production and effects as potential areas of growth"
   }
 ]

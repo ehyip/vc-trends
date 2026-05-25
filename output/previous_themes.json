@@ -1,72 +1,73 @@
 {
   "themes": [
     {
+      "theme_name": "AI-powered fertility treatment optimization",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "Gaia",
+        "The Path"
+      ],
+      "why_now": "Growing concerns about fertility and increasing demand for personalized healthcare solutions",
+      "contrarian_angle": "The market may be underestimating the potential for AI to improve fertility treatment outcomes",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI-driven music production and effects",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "Orchestria",
+        "JAMtime.ai"
+      ],
+      "why_now": "Advances in AI and growing demand for digital music creation tools",
+      "contrarian_angle": "The market may not yet appreciate the potential for AI to democratize music production",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI-powered autonomous education platforms",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "Maka Kids"
+      ],
+      "why_now": "Growing demand for personalized education and childcare solutions",
+      "contrarian_angle": "The market may be overlooking the potential for AI to improve educational outcomes for children",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI agent security and encryption",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "DCP"
+      ],
+      "why_now": "Growing concerns about AI safety and security",
+      "contrarian_angle": "The market may not yet appreciate the need for robust AI agent security solutions",
+      "momentum": "new_this_week"
+    },
+    {
       "theme_name": "AI-powered thermal management solutions",
       "signal_strength": "emerging",
       "deal_count": 1,
       "example_companies": [
         "SizzleAir"
       ],
-      "why_now": "The increasing demand for high-performance computing and AI-driven devices creates a need for innovative thermal management solutions.",
-      "contrarian_angle": "Investors may overlook the importance of thermal management in AI devices, but it's crucial for performance and reliability.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI agent observability and debugging tools",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "Raindrop AI"
-      ],
-      "why_now": "As AI agents become more prevalent, the need for tools to monitor and debug their performance grows.",
-      "contrarian_angle": "The market may focus on AI agent development, but the real challenge lies in ensuring their reliability and performance.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI-powered credentialing for healthcare professionals",
-      "signal_strength": "emerging",
-      "deal_count": 2,
-      "example_companies": [
-        "Saile"
-      ],
-      "why_now": "The healthcare industry needs efficient credentialing processes, and AI can help streamline this task.",
-      "contrarian_angle": "Investors may not see the potential for AI in healthcare credentialing, but it's a critical area for improvement.",
-      "momentum": "accelerating"
-    },
-    {
-      "theme_name": "AI-driven video production and editing tools",
-      "signal_strength": "moderate",
-      "deal_count": 2,
-      "example_companies": [
-        "Vivago Video Agent",
-        "Loova Agents"
-      ],
-      "why_now": "The rise of video content creates a demand for AI-powered video production and editing tools.",
-      "contrarian_angle": "The market may focus on AI-generated content, but AI-driven video production tools can also enhance human creativity.",
+      "why_now": "Increasing demand for efficient and sustainable thermal management solutions",
+      "contrarian_angle": "The market may be underestimating the potential for AI to improve thermal management",
       "momentum": "steady"
-    },
-    {
-      "theme_name": "AI-powered autonomous commerce platforms",
-      "signal_strength": "moderate",
-      "deal_count": 1,
-      "example_companies": [
-        "Amex Ventures"
-      ],
-      "why_now": "The growth of e-commerce and autonomous systems creates opportunities for AI-powered commerce platforms.",
-      "contrarian_angle": "Investors may overlook the potential for AI in commerce, but it's a key area for innovation.",
-      "momentum": "new_this_week"
     },
     {
       "theme_name": "AI data storage and management solutions",
       "signal_strength": "strong",
       "deal_count": 2,
       "example_companies": [
-        "Suprbox",
-        "CacheTray"
+        "Supaboard",
+        "Suprbox"
       ],
-      "why_now": "The increasing amount of AI-generated data creates a need for efficient data storage and management solutions.",
-      "contrarian_angle": "The market may focus on AI model development, but data storage and management are critical for AI adoption.",
-      "momentum": "steady"
+      "why_now": "Growing demand for efficient and scalable data management solutions",
+      "contrarian_angle": "The market may not yet appreciate the potential for AI to optimize data storage and management",
+      "momentum": "accelerating"
     },
     {
       "theme_name": "AI-powered software development and testing tools",
@@ -77,8 +78,8 @@
         "Grok Connectors",
         "articuler.ai"
       ],
-      "why_now": "The growing demand for AI-powered software development and testing tools accelerates.",
-      "contrarian_angle": "Investors may see this as a crowded space, but there are still opportunities for innovation and disruption.",
+      "why_now": "Growing demand for efficient and automated software development and testing solutions",
+      "contrarian_angle": "The market may be underestimating the potential for AI to improve software development and testing",
       "momentum": "accelerating"
     },
     {
@@ -89,13 +90,13 @@
         "Osaurus",
         "pixserp"
       ],
-      "why_now": "The need for local AI models and deployment solutions grows as AI adoption increases.",
-      "contrarian_angle": "Investors may focus on cloud-based AI solutions, but local AI models and deployment have significant potential.",
+      "why_now": "Growing demand for localized AI solutions and deployment options",
+      "contrarian_angle": "The market may not yet appreciate the potential for local AI models and deployment solutions",
       "momentum": "new_this_week"
     }
   ],
-  "biggest_surprise": "The emergence of AI-powered thermal management solutions and AI agent observability tools, which may not be on investors' radar yet.",
-  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI-driven video production and editing platforms.",
-  "sectors_cooling": "None apparent, as AI-related themes continue to attract investment.",
-  "weak_signals": "AI-powered gig economy payments infrastructure and AI-powered veterinary care, which may gain traction in the future."
+  "biggest_surprise": "The emergence of AI-powered fertility treatment optimization and AI-driven music production and effects as potential areas of growth",
+  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered autonomous education platforms and AI agent security and encryption solutions. These areas are likely to become hot theses as the market recognizes their potential for growth and innovation.",
+  "sectors_cooling": "None apparent at this time",
+  "weak_signals": "AI-powered credentialing for healthcare professionals, AI-driven video production and editing tools"
 }
