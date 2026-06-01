@@ -1,38 +1,36 @@
 {
   "themes": [
     {
-      "theme_name": "AI-powered fertility treatment optimization",
-      "signal_strength": "emerging",
-      "deal_count": 2,
-      "example_companies": [
-        "Gaia",
-        "The Path"
-      ],
-      "why_now": "Growing concerns about fertility and increasing demand for personalized healthcare solutions",
-      "contrarian_angle": "The market may be underestimating the potential for AI to improve fertility treatment outcomes",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI-driven music production and effects",
-      "signal_strength": "emerging",
-      "deal_count": 2,
-      "example_companies": [
-        "Orchestria",
-        "JAMtime.ai"
-      ],
-      "why_now": "Advances in AI and growing demand for digital music creation tools",
-      "contrarian_angle": "The market may not yet appreciate the potential for AI to democratize music production",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI-powered autonomous education platforms",
+      "theme_name": "AI-powered bird feeder technology",
       "signal_strength": "emerging",
       "deal_count": 1,
       "example_companies": [
-        "Maka Kids"
+        "Kiwibit"
       ],
-      "why_now": "Growing demand for personalized education and childcare solutions",
-      "contrarian_angle": "The market may be overlooking the potential for AI to improve educational outcomes for children",
+      "why_now": "The increasing popularity of smart home devices and IoT technology has created a demand for innovative products like AI-powered bird feeders.",
+      "contrarian_angle": "Investors may overlook the potential of niche products like AI-powered bird feeders, but they could become a surprise hit in the pet or wildlife industry.",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI-driven local search and information retrieval",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "Stella"
+      ],
+      "why_now": "The growing need for efficient information retrieval and local search capabilities has created an opportunity for AI-driven solutions.",
+      "contrarian_angle": "The market may underestimate the potential of local search and information retrieval solutions, which could become a key application of AI technology.",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI-powered coworking space management",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "Emily by Co-Desk"
+      ],
+      "why_now": "The rise of coworking spaces and the need for efficient management tools has created a demand for AI-powered solutions.",
+      "contrarian_angle": "Investors may overlook the potential of AI-powered coworking space management, but it could become a key application of AI in the real estate industry.",
       "momentum": "new_this_week"
     },
     {
@@ -42,31 +40,20 @@
       "example_companies": [
         "DCP"
       ],
-      "why_now": "Growing concerns about AI safety and security",
-      "contrarian_angle": "The market may not yet appreciate the need for robust AI agent security solutions",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI-powered thermal management solutions",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "SizzleAir"
-      ],
-      "why_now": "Increasing demand for efficient and sustainable thermal management solutions",
-      "contrarian_angle": "The market may be underestimating the potential for AI to improve thermal management",
+      "why_now": "The growing concern about AI security and the need for encryption solutions has created an opportunity for AI agent security and encryption.",
+      "contrarian_angle": "The market may underestimate the potential of AI agent security and encryption, which could become a critical component of AI adoption.",
       "momentum": "steady"
     },
     {
-      "theme_name": "AI data storage and management solutions",
-      "signal_strength": "strong",
+      "theme_name": "Local AI models and deployment solutions",
+      "signal_strength": "emerging",
       "deal_count": 2,
       "example_companies": [
-        "Supaboard",
-        "Suprbox"
+        "Osaurus",
+        "pixserp"
       ],
-      "why_now": "Growing demand for efficient and scalable data management solutions",
-      "contrarian_angle": "The market may not yet appreciate the potential for AI to optimize data storage and management",
+      "why_now": "The increasing demand for local AI deployment and edge AI solutions has created an opportunity for local AI models and deployment solutions.",
+      "contrarian_angle": "Investors may overlook the potential of local AI models and deployment solutions, but they could become a key component of AI adoption in industries like healthcare and finance.",
       "momentum": "accelerating"
     },
     {
@@ -78,25 +65,36 @@
         "Grok Connectors",
         "articuler.ai"
       ],
-      "why_now": "Growing demand for efficient and automated software development and testing solutions",
-      "contrarian_angle": "The market may be underestimating the potential for AI to improve software development and testing",
-      "momentum": "accelerating"
+      "why_now": "The growing demand for AI-powered software development and testing tools has created an opportunity for companies like Warp and Grok Connectors.",
+      "contrarian_angle": "The market may underestimate the potential of AI-powered software development and testing tools, which could become a critical component of software development.",
+      "momentum": "steady"
     },
     {
-      "theme_name": "Local AI models and deployment solutions",
-      "signal_strength": "emerging",
+      "theme_name": "AI data storage and management solutions",
+      "signal_strength": "strong",
       "deal_count": 2,
       "example_companies": [
-        "Osaurus",
-        "pixserp"
+        "Supaboard",
+        "Suprbox"
       ],
-      "why_now": "Growing demand for localized AI solutions and deployment options",
-      "contrarian_angle": "The market may not yet appreciate the potential for local AI models and deployment solutions",
+      "why_now": "The increasing demand for AI data storage and management solutions has created an opportunity for companies like Supaboard and Suprbox.",
+      "contrarian_angle": "The market may underestimate the potential of AI data storage and management solutions, which could become a critical component of AI adoption.",
+      "momentum": "steady"
+    },
+    {
+      "theme_name": "AI agents for insurance claims processing",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "Artisan"
+      ],
+      "why_now": "The growing demand for AI-powered insurance claims processing has created an opportunity for AI agents.",
+      "contrarian_angle": "Investors may overlook the potential of AI agents for insurance claims processing, but it could become a key application of AI in the insurance industry.",
       "momentum": "new_this_week"
     }
   ],
-  "biggest_surprise": "The emergence of AI-powered fertility treatment optimization and AI-driven music production and effects as potential areas of growth",
-  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered autonomous education platforms and AI agent security and encryption solutions. These areas are likely to become hot theses as the market recognizes their potential for growth and innovation.",
-  "sectors_cooling": "None apparent at this time",
-  "weak_signals": "AI-powered credentialing for healthcare professionals, AI-driven video production and editing tools"
+  "biggest_surprise": "The emergence of AI-powered bird feeder technology and AI-driven local search and information retrieval as potential areas of investment.",
+  "prediction": "In the next 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI data storage and management solutions. These areas have shown significant growth in early-stage funding and are likely to become hot areas of investment.",
+  "sectors_cooling": "None of the sectors seem to be losing early-stage momentum compared to recent weeks.",
+  "weak_signals": "AI-powered fertility treatment optimization and AI-driven music production and effects are emerging themes with only 2 deals each, but they could be significant if they grow."
 }
