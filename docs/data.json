@@ -342,5 +342,81 @@
     ],
     "prediction": "In the next 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI data storage and management solutions. These areas have shown significant growth in early-stage funding and are likely to become hot areas of investment.",
     "biggest_surprise": "The emergence of AI-powered bird feeder technology and AI-driven local search and information retrieval as potential areas of investment."
+  },
+  {
+    "run_time": "2026-06-08T14:03:22.507979+00:00",
+    "filename": "2026-06-08.html",
+    "signal_count": 121,
+    "themes": [
+      {
+        "theme_name": "AI-powered email infrastructure automation",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "Deliveryman.ai"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI-driven voice control software for Mac",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "LocalClicky"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "Autonomous AI agents for real-world tasks",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "Agent Mode on Arena"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI agents for messaging and communication",
+        "signal_strength": "moderate",
+        "deal_count": 2,
+        "example_companies": [
+          "Poke",
+          "Carbon Voice Speed Dial"
+        ],
+        "momentum": "accelerating"
+      },
+      {
+        "theme_name": "Local AI models and deployment solutions",
+        "signal_strength": "moderate",
+        "deal_count": 2,
+        "example_companies": [
+          "Osaurus",
+          "pixserp"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "AI-powered software development and testing tools",
+        "signal_strength": "strong",
+        "deal_count": 3,
+        "example_companies": [
+          "Warp",
+          "Grok Connectors",
+          "articuler.ai"
+        ],
+        "momentum": "accelerating"
+      },
+      {
+        "theme_name": "AI agent security and encryption",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "Agent Browser Shield"
+        ],
+        "momentum": "new_this_week"
+      }
+    ],
+    "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI agents for messaging and communication. These themes are likely to become hot theses as their potential applications and benefits become more apparent.",
+    "biggest_surprise": "The emergence of AI-powered email infrastructure automation and autonomous AI agents for real-world tasks, which seem to be getting funded with little attention from the broader market."
   }
 ]
