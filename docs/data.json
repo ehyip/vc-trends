@@ -418,5 +418,92 @@
     ],
     "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI agents for messaging and communication. These themes are likely to become hot theses as their potential applications and benefits become more apparent.",
     "biggest_surprise": "The emergence of AI-powered email infrastructure automation and autonomous AI agents for real-world tasks, which seem to be getting funded with little attention from the broader market."
+  },
+  {
+    "run_time": "2026-06-15T15:43:09.267238+00:00",
+    "filename": "2026-06-15.html",
+    "signal_count": 183,
+    "themes": [
+      {
+        "theme_name": "Private AI memory solutions for chatbots",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "Ultramemory",
+          "Memoriq"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI-powered job application platforms",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "Wobo 2.0"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "Autonomous data analysis and insights",
+        "signal_strength": "moderate",
+        "deal_count": 2,
+        "example_companies": [
+          "Athenic",
+          "Synopsule"
+        ],
+        "momentum": "accelerating"
+      },
+      {
+        "theme_name": "AI agents for real-world tasks and automation",
+        "signal_strength": "moderate",
+        "deal_count": 2,
+        "example_companies": [
+          "Agent Mode on Arena",
+          "IdleDev"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "AI-powered software development and testing tools",
+        "signal_strength": "strong",
+        "deal_count": 3,
+        "example_companies": [
+          "Warp",
+          "Grok Connectors",
+          "articuler.ai"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "Local AI models and deployment solutions",
+        "signal_strength": "moderate",
+        "deal_count": 2,
+        "example_companies": [
+          "Osaurus",
+          "pixserp"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "AI agent security and encryption",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "Agent Browser Shield"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI-driven voice control software for Mac",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "LocalClicky"
+        ],
+        "momentum": "new_this_week"
+      }
+    ],
+    "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered job application platforms and autonomous data analysis and insights startups, as these themes gain traction and demonstrate scalable business models.",
+    "biggest_surprise": "The emergence of private AI memory solutions for chatbots, which addresses growing concerns over data privacy and AI reliability."
   }
 ]

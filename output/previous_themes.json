@@ -1,60 +1,50 @@
 {
   "themes": [
     {
-      "theme_name": "AI-powered email infrastructure automation",
+      "theme_name": "Private AI memory solutions for chatbots",
       "signal_strength": "emerging",
-      "deal_count": 1,
+      "deal_count": 2,
       "example_companies": [
-        "Deliveryman.ai"
+        "Ultramemory",
+        "Memoriq"
       ],
-      "why_now": "The rise of AI-powered tools in email marketing and communication",
-      "contrarian_angle": "The market may overlook the potential for AI to significantly improve email infrastructure efficiency",
+      "why_now": "Growing concerns over data privacy and AI reliability drive demand for private AI memory solutions.",
+      "contrarian_angle": "The market underestimates the importance of private AI memory for secure and reliable chatbot interactions.",
       "momentum": "new_this_week"
     },
     {
-      "theme_name": "AI-driven voice control software for Mac",
+      "theme_name": "AI-powered job application platforms",
       "signal_strength": "emerging",
       "deal_count": 1,
       "example_companies": [
-        "LocalClicky"
+        "Wobo 2.0"
       ],
-      "why_now": "Increasing demand for voice-controlled interfaces in personal computing",
-      "contrarian_angle": "Investors might underestimate the demand for specialized voice control solutions",
+      "why_now": "The rise of AI-driven automation in HR processes and job search platforms.",
+      "contrarian_angle": "Investors overlook the potential for AI to disrupt traditional job application processes.",
       "momentum": "new_this_week"
     },
     {
-      "theme_name": "Autonomous AI agents for real-world tasks",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "Agent Mode on Arena"
-      ],
-      "why_now": "Advances in AI making autonomous agents more feasible and useful",
-      "contrarian_angle": "The market may not fully appreciate the potential applications of autonomous AI agents in various industries",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI agents for messaging and communication",
+      "theme_name": "Autonomous data analysis and insights",
       "signal_strength": "moderate",
       "deal_count": 2,
       "example_companies": [
-        "Poke",
-        "Carbon Voice Speed Dial"
+        "Athenic",
+        "Synopsule"
       ],
-      "why_now": "Growing need for AI-powered tools in messaging and communication platforms",
-      "contrarian_angle": "Investors might overlook the potential for AI agents to improve user engagement and experience in messaging apps",
+      "why_now": "Increasing demand for automated data analysis and insights in businesses.",
+      "contrarian_angle": "The market underestimates the impact of autonomous data analysis on business decision-making.",
       "momentum": "accelerating"
     },
     {
-      "theme_name": "Local AI models and deployment solutions",
+      "theme_name": "AI agents for real-world tasks and automation",
       "signal_strength": "moderate",
       "deal_count": 2,
       "example_companies": [
-        "Osaurus",
-        "pixserp"
+        "Agent Mode on Arena",
+        "IdleDev"
       ],
-      "why_now": "Increasing demand for local AI deployment due to privacy and efficiency concerns",
-      "contrarian_angle": "The market may underestimate the importance of local AI models for specific industries or applications",
+      "why_now": "Advances in AI technology enable more complex and practical applications.",
+      "contrarian_angle": "Investors may be underestimating the potential for AI agents to automate real-world tasks.",
       "momentum": "steady"
     },
     {
@@ -66,9 +56,21 @@
         "Grok Connectors",
         "articuler.ai"
       ],
-      "why_now": "The growing need for AI-powered tools in software development and testing",
-      "contrarian_angle": "Investors might not fully appreciate the potential for AI to significantly improve developer productivity and software quality",
-      "momentum": "accelerating"
+      "why_now": "The growing need for efficient and reliable software development and testing processes.",
+      "contrarian_angle": "The market may be overestimating the short-term impact of these tools on software development.",
+      "momentum": "steady"
+    },
+    {
+      "theme_name": "Local AI models and deployment solutions",
+      "signal_strength": "moderate",
+      "deal_count": 2,
+      "example_companies": [
+        "Osaurus",
+        "pixserp"
+      ],
+      "why_now": "Increasing demand for localized AI solutions and deployment options.",
+      "contrarian_angle": "Investors may be underestimating the importance of local AI models for specific industries.",
+      "momentum": "steady"
     },
     {
       "theme_name": "AI agent security and encryption",
@@ -77,13 +79,24 @@
       "example_companies": [
         "Agent Browser Shield"
       ],
-      "why_now": "Increasing concerns over AI security and the need for robust encryption solutions",
-      "contrarian_angle": "The market may overlook the critical need for AI agent security and encryption in emerging applications",
+      "why_now": "Growing concerns over AI security and the need for robust encryption solutions.",
+      "contrarian_angle": "The market underestimates the criticality of AI agent security and encryption.",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI-driven voice control software for Mac",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "LocalClicky"
+      ],
+      "why_now": "The rise of voice-controlled interfaces and AI-driven software.",
+      "contrarian_angle": "Investors overlook the potential for AI-driven voice control software in niche markets.",
       "momentum": "new_this_week"
     }
   ],
-  "biggest_surprise": "The emergence of AI-powered email infrastructure automation and autonomous AI agents for real-world tasks, which seem to be getting funded with little attention from the broader market.",
-  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI agents for messaging and communication. These themes are likely to become hot theses as their potential applications and benefits become more apparent.",
-  "sectors_cooling": "None apparent, as most themes seem to be gaining momentum or emerging anew.",
-  "weak_signals": "AI-powered bird feeder technology and AI-driven local search and information retrieval, which appeared in only one deal each, but could be significant if they grow."
+  "biggest_surprise": "The emergence of private AI memory solutions for chatbots, which addresses growing concerns over data privacy and AI reliability.",
+  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered job application platforms and autonomous data analysis and insights startups, as these themes gain traction and demonstrate scalable business models.",
+  "sectors_cooling": "None apparent, as all themes show steady or increasing momentum.",
+  "weak_signals": "AI-powered email infrastructure automation and AI-driven voice control software for Mac, which may gain traction if more deals emerge."
 }
