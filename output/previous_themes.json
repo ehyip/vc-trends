@@ -1,6 +1,65 @@
 {
   "themes": [
     {
+      "theme_name": "AI agents for insurance claims processing",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "K\u0113",
+        "Signal"
+      ],
+      "why_now": "The insurance industry is ripe for disruption with AI agents that can efficiently process claims.",
+      "contrarian_angle": "Investors are overlooking the potential for AI to transform the insurance industry, particularly in claims processing.",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "Local AI coding stacks for enterprise",
+      "signal_strength": "moderate",
+      "deal_count": 2,
+      "example_companies": [
+        "In the Weights",
+        "Allbirds"
+      ],
+      "why_now": "The need for local AI coding stacks is growing as enterprises seek to integrate AI into their operations.",
+      "contrarian_angle": "The market is underestimating the demand for local AI coding stacks that can operate independently of cloud services.",
+      "momentum": "steady"
+    },
+    {
+      "theme_name": "AI-powered video technology for media",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "Dotmo",
+        "Pixli"
+      ],
+      "why_now": "The rise of video content creation has created a need for AI-powered video technology.",
+      "contrarian_angle": "Investors are not yet recognizing the potential for AI to revolutionize the video technology industry.",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "Autonomous data analysis for business insights",
+      "signal_strength": "moderate",
+      "deal_count": 2,
+      "example_companies": [
+        "Athenic",
+        "Synopsule"
+      ],
+      "why_now": "Businesses are seeking autonomous data analysis solutions to gain insights and make informed decisions.",
+      "contrarian_angle": "The market is underestimating the demand for autonomous data analysis solutions that can provide actionable insights.",
+      "momentum": "steady"
+    },
+    {
+      "theme_name": "AI-driven voice control software for Mac",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "LocalClicky"
+      ],
+      "why_now": "The growing popularity of voice assistants has created a need for AI-driven voice control software.",
+      "contrarian_angle": "Investors are not yet recognizing the potential for AI-driven voice control software to disrupt the Mac ecosystem.",
+      "momentum": "new_this_week"
+    },
+    {
       "theme_name": "Private AI memory solutions for chatbots",
       "signal_strength": "emerging",
       "deal_count": 2,
@@ -8,32 +67,9 @@
         "Ultramemory",
         "Memoriq"
       ],
-      "why_now": "Growing concerns over data privacy and AI reliability drive demand for private AI memory solutions.",
-      "contrarian_angle": "The market underestimates the importance of private AI memory for secure and reliable chatbot interactions.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI-powered job application platforms",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "Wobo 2.0"
-      ],
-      "why_now": "The rise of AI-driven automation in HR processes and job search platforms.",
-      "contrarian_angle": "Investors overlook the potential for AI to disrupt traditional job application processes.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "Autonomous data analysis and insights",
-      "signal_strength": "moderate",
-      "deal_count": 2,
-      "example_companies": [
-        "Athenic",
-        "Synopsule"
-      ],
-      "why_now": "Increasing demand for automated data analysis and insights in businesses.",
-      "contrarian_angle": "The market underestimates the impact of autonomous data analysis on business decision-making.",
-      "momentum": "accelerating"
+      "why_now": "The growing need for private AI memory solutions is driven by the increasing use of chatbots in various industries.",
+      "contrarian_angle": "The market is underestimating the demand for private AI memory solutions that can ensure data security and integrity.",
+      "momentum": "steady"
     },
     {
       "theme_name": "AI agents for real-world tasks and automation",
@@ -43,8 +79,8 @@
         "Agent Mode on Arena",
         "IdleDev"
       ],
-      "why_now": "Advances in AI technology enable more complex and practical applications.",
-      "contrarian_angle": "Investors may be underestimating the potential for AI agents to automate real-world tasks.",
+      "why_now": "The growing need for automation has created a demand for AI agents that can perform real-world tasks.",
+      "contrarian_angle": "Investors are not yet recognizing the full potential of AI agents to transform industries through automation.",
       "momentum": "steady"
     },
     {
@@ -56,47 +92,13 @@
         "Grok Connectors",
         "articuler.ai"
       ],
-      "why_now": "The growing need for efficient and reliable software development and testing processes.",
-      "contrarian_angle": "The market may be overestimating the short-term impact of these tools on software development.",
-      "momentum": "steady"
-    },
-    {
-      "theme_name": "Local AI models and deployment solutions",
-      "signal_strength": "moderate",
-      "deal_count": 2,
-      "example_companies": [
-        "Osaurus",
-        "pixserp"
-      ],
-      "why_now": "Increasing demand for localized AI solutions and deployment options.",
-      "contrarian_angle": "Investors may be underestimating the importance of local AI models for specific industries.",
-      "momentum": "steady"
-    },
-    {
-      "theme_name": "AI agent security and encryption",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "Agent Browser Shield"
-      ],
-      "why_now": "Growing concerns over AI security and the need for robust encryption solutions.",
-      "contrarian_angle": "The market underestimates the criticality of AI agent security and encryption.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI-driven voice control software for Mac",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "LocalClicky"
-      ],
-      "why_now": "The rise of voice-controlled interfaces and AI-driven software.",
-      "contrarian_angle": "Investors overlook the potential for AI-driven voice control software in niche markets.",
-      "momentum": "new_this_week"
+      "why_now": "The growing complexity of software development has created a need for AI-powered tools that can streamline the process.",
+      "contrarian_angle": "The market is underestimating the potential for AI-powered software development and testing tools to transform the industry.",
+      "momentum": "accelerating"
     }
   ],
-  "biggest_surprise": "The emergence of private AI memory solutions for chatbots, which addresses growing concerns over data privacy and AI reliability.",
-  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered job application platforms and autonomous data analysis and insights startups, as these themes gain traction and demonstrate scalable business models.",
-  "sectors_cooling": "None apparent, as all themes show steady or increasing momentum.",
-  "weak_signals": "AI-powered email infrastructure automation and AI-driven voice control software for Mac, which may gain traction if more deals emerge."
+  "biggest_surprise": "The emergence of AI agents for insurance claims processing, which has the potential to disrupt the insurance industry.",
+  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI agents for real-world tasks and automation.",
+  "sectors_cooling": "None notable at this time.",
+  "weak_signals": "AI-powered job application platforms and AI agent security and encryption, which may gain traction in the future."
 }
