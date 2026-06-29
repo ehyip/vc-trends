@@ -1,28 +1,41 @@
 {
   "themes": [
     {
-      "theme_name": "AI agents for insurance claims processing",
+      "theme_name": "AI-powered bookkeeping automation for small businesses",
       "signal_strength": "emerging",
       "deal_count": 2,
       "example_companies": [
-        "K\u0113",
-        "Signal"
+        "Receiptor AI",
+        "Fika Jobs"
       ],
-      "why_now": "The insurance industry is ripe for disruption with AI agents that can efficiently process claims.",
-      "contrarian_angle": "Investors are overlooking the potential for AI to transform the insurance industry, particularly in claims processing.",
+      "why_now": "The increasing adoption of AI in financial services and the need for automation in bookkeeping tasks.",
+      "contrarian_angle": "The market may be underestimating the potential for AI-powered bookkeeping automation to disrupt traditional accounting firms.",
       "momentum": "new_this_week"
     },
     {
-      "theme_name": "Local AI coding stacks for enterprise",
+      "theme_name": "AI agents for real-world tasks and automation",
       "signal_strength": "moderate",
+      "deal_count": 3,
+      "example_companies": [
+        "Agent Mode on Arena",
+        "IdleDev",
+        "Sail Research"
+      ],
+      "why_now": "The growing demand for automation and AI-powered solutions in various industries.",
+      "contrarian_angle": "The market may be overlooking the potential for AI agents to automate complex tasks beyond simple workflows.",
+      "momentum": "accelerating"
+    },
+    {
+      "theme_name": "Private AI memory solutions for chatbots",
+      "signal_strength": "emerging",
       "deal_count": 2,
       "example_companies": [
-        "In the Weights",
-        "Allbirds"
+        "Ultramemory",
+        "Memoriq"
       ],
-      "why_now": "The need for local AI coding stacks is growing as enterprises seek to integrate AI into their operations.",
-      "contrarian_angle": "The market is underestimating the demand for local AI coding stacks that can operate independently of cloud services.",
-      "momentum": "steady"
+      "why_now": "The increasing need for secure and private AI solutions in chatbots and virtual assistants.",
+      "contrarian_angle": "The market may be underestimating the importance of private AI memory solutions for chatbots in regulated industries.",
+      "momentum": "new_this_week"
     },
     {
       "theme_name": "AI-powered video technology for media",
@@ -32,8 +45,31 @@
         "Dotmo",
         "Pixli"
       ],
-      "why_now": "The rise of video content creation has created a need for AI-powered video technology.",
-      "contrarian_angle": "Investors are not yet recognizing the potential for AI to revolutionize the video technology industry.",
+      "why_now": "The growing demand for AI-powered video solutions in the media and entertainment industry.",
+      "contrarian_angle": "The market may be overlooking the potential for AI-powered video technology to disrupt traditional media production workflows.",
+      "momentum": "steady"
+    },
+    {
+      "theme_name": "Local AI coding stacks for enterprise",
+      "signal_strength": "moderate",
+      "deal_count": 2,
+      "example_companies": [
+        "In the Weights",
+        "Allbirds"
+      ],
+      "why_now": "The increasing adoption of AI in enterprises and the need for customized AI solutions.",
+      "contrarian_angle": "The market may be underestimating the potential for local AI coding stacks to enable enterprises to build and deploy AI solutions more efficiently.",
+      "momentum": "steady"
+    },
+    {
+      "theme_name": "AI-driven voice control software for Mac",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "LocalClicky"
+      ],
+      "why_now": "The growing demand for voice control solutions in macOS and the potential for AI-powered voice control software.",
+      "contrarian_angle": "The market may be overlooking the potential for AI-driven voice control software to enable more intuitive and hands-free interactions with Mac devices.",
       "momentum": "new_this_week"
     },
     {
@@ -44,61 +80,25 @@
         "Athenic",
         "Synopsule"
       ],
-      "why_now": "Businesses are seeking autonomous data analysis solutions to gain insights and make informed decisions.",
-      "contrarian_angle": "The market is underestimating the demand for autonomous data analysis solutions that can provide actionable insights.",
+      "why_now": "The increasing need for autonomous data analysis solutions in businesses.",
+      "contrarian_angle": "The market may be underestimating the potential for autonomous data analysis to enable businesses to make more informed decisions.",
       "momentum": "steady"
     },
     {
-      "theme_name": "AI-driven voice control software for Mac",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "LocalClicky"
-      ],
-      "why_now": "The growing popularity of voice assistants has created a need for AI-driven voice control software.",
-      "contrarian_angle": "Investors are not yet recognizing the potential for AI-driven voice control software to disrupt the Mac ecosystem.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "Private AI memory solutions for chatbots",
+      "theme_name": "AI agents for insurance claims processing",
       "signal_strength": "emerging",
       "deal_count": 2,
       "example_companies": [
-        "Ultramemory",
-        "Memoriq"
+        "K\u0113",
+        "Signal"
       ],
-      "why_now": "The growing need for private AI memory solutions is driven by the increasing use of chatbots in various industries.",
-      "contrarian_angle": "The market is underestimating the demand for private AI memory solutions that can ensure data security and integrity.",
+      "why_now": "The growing demand for AI-powered solutions in insurance claims processing.",
+      "contrarian_angle": "The market may be overlooking the potential for AI agents to automate and streamline insurance claims processing.",
       "momentum": "steady"
-    },
-    {
-      "theme_name": "AI agents for real-world tasks and automation",
-      "signal_strength": "moderate",
-      "deal_count": 2,
-      "example_companies": [
-        "Agent Mode on Arena",
-        "IdleDev"
-      ],
-      "why_now": "The growing need for automation has created a demand for AI agents that can perform real-world tasks.",
-      "contrarian_angle": "Investors are not yet recognizing the full potential of AI agents to transform industries through automation.",
-      "momentum": "steady"
-    },
-    {
-      "theme_name": "AI-powered software development and testing tools",
-      "signal_strength": "strong",
-      "deal_count": 3,
-      "example_companies": [
-        "Warp",
-        "Grok Connectors",
-        "articuler.ai"
-      ],
-      "why_now": "The growing complexity of software development has created a need for AI-powered tools that can streamline the process.",
-      "contrarian_angle": "The market is underestimating the potential for AI-powered software development and testing tools to transform the industry.",
-      "momentum": "accelerating"
     }
   ],
-  "biggest_surprise": "The emergence of AI agents for insurance claims processing, which has the potential to disrupt the insurance industry.",
-  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI agents for real-world tasks and automation.",
-  "sectors_cooling": "None notable at this time.",
-  "weak_signals": "AI-powered job application platforms and AI agent security and encryption, which may gain traction in the future."
+  "biggest_surprise": "The emergence of AI-powered bookkeeping automation for small businesses, which seems to be a relatively under-the-radar area of investment.",
+  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered software development and testing tools, as well as AI agents for real-world tasks and automation. These areas are showing strong early-stage signals and are likely to attract more investment as the technology matures.",
+  "sectors_cooling": "None of the sectors seem to be losing early-stage momentum compared to recent weeks.",
+  "weak_signals": "AI-driven voice control software for Mac and private AI memory solutions for chatbots are emerging themes with only 1-2 deals, but they could be significant if they grow."
 }
