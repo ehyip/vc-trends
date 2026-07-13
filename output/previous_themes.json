@@ -1,84 +1,14 @@
 {
   "themes": [
     {
-      "theme_name": "AI agents for postal mail automation",
+      "theme_name": "AI-powered browser extension development platforms",
       "signal_strength": "emerging",
       "deal_count": 1,
       "example_companies": [
-        "PieterPost MCP"
+        "PlugThis"
       ],
-      "why_now": "The increasing use of AI agents in various industries is leading to the exploration of new applications, such as automating postal mail tasks.",
-      "contrarian_angle": "The market may not yet see the potential for AI to significantly improve postal mail automation, a traditionally manual process.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI-powered coding companions for developers",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "Tamamon"
-      ],
-      "why_now": "The growing demand for AI-powered tools in software development is driving the creation of coding companions that can assist developers.",
-      "contrarian_angle": "Investors may be underestimating the impact of AI-powered coding companions on developer productivity and the future of software development.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI-driven voice control software for Mac",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "Macuse"
-      ],
-      "why_now": "The increasing adoption of voice-controlled interfaces is leading to the development of AI-driven voice control software for Mac.",
-      "contrarian_angle": "The market may not yet fully appreciate the potential for voice control software to enhance user experience and productivity on Mac devices.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "Autonomous data analysis for business insights",
-      "signal_strength": "moderate",
-      "deal_count": 2,
-      "example_companies": [
-        "Athenic",
-        "Synopsule"
-      ],
-      "why_now": "The growing need for businesses to gain insights from complex data is driving the development of autonomous data analysis solutions.",
-      "contrarian_angle": "Investors may be overlooking the potential for autonomous data analysis to disrupt traditional business intelligence and analytics markets.",
-      "momentum": "steady"
-    },
-    {
-      "theme_name": "AI agents for insurance claims processing",
-      "signal_strength": "emerging",
-      "deal_count": 2,
-      "example_companies": [
-        "K\u0113",
-        "Signal"
-      ],
-      "why_now": "The increasing use of AI agents in various industries is leading to the exploration of new applications, such as insurance claims processing.",
-      "contrarian_angle": "The market may not yet fully appreciate the potential for AI agents to improve efficiency and accuracy in insurance claims processing.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "Private AI memory solutions for chatbots",
-      "signal_strength": "emerging",
-      "deal_count": 2,
-      "example_companies": [
-        "Ultramemory",
-        "Memoriq"
-      ],
-      "why_now": "The growing need for chatbots to have more advanced memory capabilities is driving the development of private AI memory solutions.",
-      "contrarian_angle": "Investors may be underestimating the importance of private AI memory solutions for chatbots in improving user experience and chatbot effectiveness.",
-      "momentum": "steady"
-    },
-    {
-      "theme_name": "AI-powered video technology for media",
-      "signal_strength": "emerging",
-      "deal_count": 2,
-      "example_companies": [
-        "Dotmo",
-        "Pixli"
-      ],
-      "why_now": "The increasing demand for AI-powered video technology in the media industry is driving the development of new solutions.",
-      "contrarian_angle": "The market may not yet fully appreciate the potential for AI-powered video technology to transform the media industry.",
+      "why_now": "The increasing demand for AI-powered tools and the growing need for efficient browser extension development",
+      "contrarian_angle": "The market may not yet see the potential for AI-powered browser extension development platforms to disrupt traditional software development",
       "momentum": "new_this_week"
     },
     {
@@ -89,13 +19,83 @@
         "In the Weights",
         "Allbirds"
       ],
-      "why_now": "The growing need for enterprises to adopt AI-powered coding solutions is driving the development of local AI coding stacks.",
-      "contrarian_angle": "Investors may be overlooking the potential for local AI coding stacks to improve developer productivity and efficiency in enterprises.",
+      "why_now": "The growing need for enterprises to adopt AI solutions and the importance of local coding stacks for customization",
+      "contrarian_angle": "The market may underestimate the complexity of implementing local AI coding stacks for enterprise",
       "momentum": "steady"
+    },
+    {
+      "theme_name": "Autonomous data analysis for business insights",
+      "signal_strength": "moderate",
+      "deal_count": 2,
+      "example_companies": [
+        "Athenic",
+        "Synopsule"
+      ],
+      "why_now": "The increasing amount of data being generated and the need for businesses to gain insights from it",
+      "contrarian_angle": "The market may not yet see the potential for autonomous data analysis to disrupt traditional business intelligence",
+      "momentum": "steady"
+    },
+    {
+      "theme_name": "AI agents for insurance claims processing",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "K\u0113",
+        "Signal"
+      ],
+      "why_now": "The growing need for efficient and accurate insurance claims processing",
+      "contrarian_angle": "The market may underestimate the complexity of implementing AI agents in insurance claims processing",
+      "momentum": "accelerating"
+    },
+    {
+      "theme_name": "Private AI memory solutions for chatbots",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "Ultramemory",
+        "Memoriq"
+      ],
+      "why_now": "The growing need for chatbots to have more advanced memory capabilities",
+      "contrarian_angle": "The market may not yet see the potential for private AI memory solutions to improve chatbot performance",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI-powered video technology for media",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "Dotmo",
+        "Pixli"
+      ],
+      "why_now": "The growing demand for AI-powered video content and the need for more efficient video production",
+      "contrarian_angle": "The market may underestimate the potential for AI-powered video technology to disrupt traditional media production",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI-driven voice control software for Mac",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "Macuse"
+      ],
+      "why_now": "The growing demand for voice control software and the need for more advanced AI-powered interfaces",
+      "contrarian_angle": "The market may not yet see the potential for AI-driven voice control software to improve user experience",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI agents for postal mail automation",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "PieterPost MCP"
+      ],
+      "why_now": "The growing need for efficient and automated postal mail processing",
+      "contrarian_angle": "The market may underestimate the potential for AI agents to improve postal mail automation",
+      "momentum": "new_this_week"
     }
   ],
-  "biggest_surprise": "The emergence of AI agents for postal mail automation, which seems to be a novel application of AI technology.",
-  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered coding companions, autonomous data analysis, and private AI memory solutions for chatbots, as these themes continue to gain traction.",
-  "sectors_cooling": "None apparent, as all themes seem to be gaining momentum or emerging.",
-  "weak_signals": "AI-driven voice control software for Mac and AI agents for postal mail automation, which are still in the early stages of development."
+  "biggest_surprise": "The emergence of AI-powered browser extension development platforms, which seems to be a novel approach to software development.",
+  "prediction": "In 3-6 months, we expect to see a surge in Series A funding for AI-powered coding companions for developers, as the demand for efficient and accurate coding solutions continues to grow.",
+  "sectors_cooling": "None apparent, as the themes seem to be emerging or steady.",
+  "weak_signals": "AI-powered video technology for media and Private AI memory solutions for chatbots, which are still in the emerging stage but show potential for growth."
 }
