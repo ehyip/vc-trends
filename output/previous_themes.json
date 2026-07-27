@@ -1,27 +1,37 @@
 {
   "themes": [
     {
-      "theme_name": "AI agents for order-to-cash operations",
+      "theme_name": "AI-powered construction project management tools",
       "signal_strength": "emerging",
       "deal_count": 2,
       "example_companies": [
-        "Rex",
-        "LnkFlow"
+        "Cascade"
       ],
-      "why_now": "As companies look to automate financial management, AI agents are being explored for order-to-cash operations, streamlining the process and reducing manual errors.",
-      "contrarian_angle": "The market underestimates the potential for AI to transform back-office operations, such as order-to-cash, which could lead to significant efficiency gains.",
+      "why_now": "The construction industry is ripe for digital transformation, and AI can help streamline project management and improve efficiency.",
+      "contrarian_angle": "Most investors overlook the construction industry as a target for AI innovation, but it has significant potential for disruption.",
       "momentum": "new_this_week"
     },
     {
-      "theme_name": "Private AI memory solutions for chatbots",
+      "theme_name": "Open source AI research and development",
       "signal_strength": "emerging",
       "deal_count": 2,
       "example_companies": [
-        "Ultramemory",
-        "Memoriq"
+        "Arcee"
       ],
-      "why_now": "With the rise of chatbots, companies are seeking private AI memory solutions to improve conversational experiences and protect user data.",
-      "contrarian_angle": "The market overlooks the importance of private AI memory in chatbots, which could become a key differentiator for companies prioritizing user privacy.",
+      "why_now": "As AI becomes increasingly important, open source research and development can help drive innovation and improve safety.",
+      "contrarian_angle": "The market underestimates the potential of open source AI research to drive breakthroughs and create new opportunities.",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI agents for insurance claims processing",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "K\u0113",
+        "Signal"
+      ],
+      "why_now": "Insurance companies are looking for ways to automate and streamline claims processing, and AI agents can help.",
+      "contrarian_angle": "Most investors focus on consumer-facing AI applications, but AI can also have a significant impact on B2B industries like insurance.",
       "momentum": "steady"
     },
     {
@@ -32,20 +42,20 @@
         "Dotmo",
         "Pixli"
       ],
-      "why_now": "As video content creation increases, AI-powered video technology is being developed to enhance media production, editing, and distribution.",
-      "contrarian_angle": "The market underestimates the potential for AI to disrupt traditional video production workflows, enabling more efficient and cost-effective content creation.",
+      "why_now": "The media industry is looking for new ways to create and distribute content, and AI-powered video technology can help.",
+      "contrarian_angle": "The market underestimates the potential of AI to disrupt the media industry and create new opportunities for content creation and distribution.",
       "momentum": "steady"
     },
     {
-      "theme_name": "AI agents for insurance claims processing",
+      "theme_name": "Private AI memory solutions for chatbots",
       "signal_strength": "emerging",
       "deal_count": 2,
       "example_companies": [
-        "K\u0113",
-        "Signal"
+        "Ultramemory",
+        "Memoriq"
       ],
-      "why_now": "Insurance companies are exploring AI agents to streamline claims processing, reducing manual labor and improving customer experiences.",
-      "contrarian_angle": "The market overlooks the potential for AI agents to transform the insurance industry, particularly in claims processing, which could lead to significant cost savings and efficiency gains.",
+      "why_now": "As chatbots become more prevalent, private AI memory solutions can help improve their performance and security.",
+      "contrarian_angle": "Most investors focus on chatbot development, but the underlying infrastructure and memory solutions are also critical to their success.",
       "momentum": "steady"
     },
     {
@@ -56,31 +66,9 @@
         "Athenic",
         "Synopsule"
       ],
-      "why_now": "As data volumes grow, companies are seeking autonomous data analysis solutions to uncover business insights and inform decision-making.",
-      "contrarian_angle": "The market underestimates the potential for autonomous data analysis to become a key driver of business decision-making, enabling companies to respond more quickly to changing market conditions.",
-      "momentum": "fading"
-    },
-    {
-      "theme_name": "AI-powered browser extension development platforms",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "PlugThis"
-      ],
-      "why_now": "As browser extensions become increasingly popular, AI-powered development platforms are emerging to simplify the creation and deployment of extensions.",
-      "contrarian_angle": "The market overlooks the potential for AI-powered browser extension development platforms to democratize access to extension creation, enabling a wider range of developers to participate.",
-      "momentum": "new_this_week"
-    },
-    {
-      "theme_name": "AI-driven voice control software for Mac",
-      "signal_strength": "emerging",
-      "deal_count": 1,
-      "example_companies": [
-        "Macuse"
-      ],
-      "why_now": "As voice control technology improves, companies are developing AI-driven voice control software for Mac, enhancing user experiences and productivity.",
-      "contrarian_angle": "The market underestimates the potential for AI-driven voice control software to transform the way users interact with their Mac devices, particularly in areas such as accessibility and productivity.",
-      "momentum": "new_this_week"
+      "why_now": "Businesses are looking for ways to gain insights from their data, and autonomous data analysis can help.",
+      "contrarian_angle": "The market underestimates the potential of autonomous data analysis to drive business decisions and improve operations.",
+      "momentum": "steady"
     },
     {
       "theme_name": "Local AI coding stacks for enterprise",
@@ -90,13 +78,24 @@
         "In the Weights",
         "Allbirds"
       ],
-      "why_now": "Enterprises are seeking local AI coding stacks to improve development efficiency, reduce costs, and enhance collaboration.",
-      "contrarian_angle": "The market overlooks the potential for local AI coding stacks to become a key driver of enterprise innovation, enabling companies to develop and deploy AI solutions more quickly and effectively.",
-      "momentum": "accelerating"
+      "why_now": "Enterprises are looking for ways to develop and deploy AI solutions locally, and local AI coding stacks can help.",
+      "contrarian_angle": "Most investors focus on cloud-based AI solutions, but local AI coding stacks can provide more control and security for enterprises.",
+      "momentum": "fading"
+    },
+    {
+      "theme_name": "AI training and coaching platforms",
+      "signal_strength": "emerging",
+      "deal_count": 1,
+      "example_companies": [
+        "Synthesia"
+      ],
+      "why_now": "As AI becomes more prevalent, companies need to train and coach their employees to work with AI systems effectively.",
+      "contrarian_angle": "The market underestimates the potential of AI training and coaching platforms to drive adoption and improve AI outcomes.",
+      "momentum": "new_this_week"
     }
   ],
-  "biggest_surprise": "The emergence of AI agents for order-to-cash operations and autonomous data analysis for business insights suggests a growing focus on back-office automation and data-driven decision-making. These areas are not typically associated with AI innovation, but they could have a significant impact on business operations and efficiency.",
-  "prediction": "In the next 3-6 months, Series A investments will focus on AI-powered automation of back-office operations, such as order-to-cash and accounts payable, as well as autonomous data analysis for business insights. Companies that can demonstrate significant efficiency gains and cost savings through AI adoption will be highly sought after by investors. Additionally, AI-driven voice control software and local AI coding stacks will gain traction as enterprises seek to improve user experiences and development efficiency.",
-  "sectors_cooling": "The AI-driven cybersecurity sector appears to be losing momentum, with fewer deals and less investment activity compared to recent weeks. This may be due to the increasing complexity of cybersecurity threats and the need for more specialized solutions.",
-  "weak_signals": "Patterns such as AI-powered desktop organization tools and multimodal AI models are emerging in only 1-2 deals, but they could be significant if they grow. These areas have the potential to transform the way users interact with their devices and access information, and could become key areas of focus for investors in the future."
+  "biggest_surprise": "The most unexpected pattern is the emergence of AI-powered construction project management tools, which could disrupt a traditionally non-tech industry.",
+  "prediction": "In the next 3-6 months, we expect to see a surge in Series A funding for AI-powered construction project management tools, open source AI research and development, and autonomous data analysis for business insights. These themes have the potential to drive significant innovation and disruption in their respective industries.",
+  "sectors_cooling": "The AI-powered browser extension development platforms and AI-driven voice control software for Mac sectors seem to be losing early-stage momentum compared to recent weeks.",
+  "weak_signals": "Patterns that appear in only 1-2 deals but could be significant if they grow include AI-powered social research tools and portable nuclear reactors."
 }

@@ -942,5 +942,91 @@
     ],
     "prediction": "In the next 3-6 months, Series A investments will focus on AI-powered automation of back-office operations, such as order-to-cash and accounts payable, as well as autonomous data analysis for business insights. Companies that can demonstrate significant efficiency gains and cost savings through AI adoption will be highly sought after by investors. Additionally, AI-driven voice control software and local AI coding stacks will gain traction as enterprises seek to improve user experiences and development efficiency.",
     "biggest_surprise": "The emergence of AI agents for order-to-cash operations and autonomous data analysis for business insights suggests a growing focus on back-office automation and data-driven decision-making. These areas are not typically associated with AI innovation, but they could have a significant impact on business operations and efficiency."
+  },
+  {
+    "run_time": "2026-07-27T12:52:58.612937+00:00",
+    "filename": "2026-07-27.html",
+    "signal_count": 136,
+    "themes": [
+      {
+        "theme_name": "AI-powered construction project management tools",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "Cascade"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "Open source AI research and development",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "Arcee"
+        ],
+        "momentum": "new_this_week"
+      },
+      {
+        "theme_name": "AI agents for insurance claims processing",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "K\u0113",
+          "Signal"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "AI-powered video technology for media",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "Dotmo",
+          "Pixli"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "Private AI memory solutions for chatbots",
+        "signal_strength": "emerging",
+        "deal_count": 2,
+        "example_companies": [
+          "Ultramemory",
+          "Memoriq"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "Autonomous data analysis for business insights",
+        "signal_strength": "moderate",
+        "deal_count": 2,
+        "example_companies": [
+          "Athenic",
+          "Synopsule"
+        ],
+        "momentum": "steady"
+      },
+      {
+        "theme_name": "Local AI coding stacks for enterprise",
+        "signal_strength": "moderate",
+        "deal_count": 2,
+        "example_companies": [
+          "In the Weights",
+          "Allbirds"
+        ],
+        "momentum": "fading"
+      },
+      {
+        "theme_name": "AI training and coaching platforms",
+        "signal_strength": "emerging",
+        "deal_count": 1,
+        "example_companies": [
+          "Synthesia"
+        ],
+        "momentum": "new_this_week"
+      }
+    ],
+    "prediction": "In the next 3-6 months, we expect to see a surge in Series A funding for AI-powered construction project management tools, open source AI research and development, and autonomous data analysis for business insights. These themes have the potential to drive significant innovation and disruption in their respective industries.",
+    "biggest_surprise": "The most unexpected pattern is the emergence of AI-powered construction project management tools, which could disrupt a traditionally non-tech industry."
   }
 ]
