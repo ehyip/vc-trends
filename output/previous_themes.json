@@ -1,102 +1,107 @@
 {
   "themes": [
     {
-      "theme_name": "AI-powered content detection for media",
+      "theme_name": "AI agents for team collaboration and memory sharing",
       "signal_strength": "emerging",
-      "deal_count": 2,
+      "deal_count": 3,
       "example_companies": [
-        "Pangram",
-        "Smallest.ai"
+        "Tencent's Team Memory",
+        "Liquid AI",
+        "Argos"
       ],
-      "why_now": "The growing need for AI-powered content detection solutions is driven by the increasing amount of user-generated content and the need for more accurate moderation.",
-      "contrarian_angle": "The market underestimates the potential of AI-powered content detection to improve content moderation and reduce the spread of misinformation.",
+      "why_now": "As remote work continues to rise, companies are looking for innovative ways to enhance team collaboration and productivity, leading to the emergence of AI agents that can share memory and assist teams.",
+      "contrarian_angle": "The market underestimates the potential of AI agents to revolutionize team collaboration by enabling seamless knowledge sharing and automating routine tasks.",
       "momentum": "new_this_week"
     },
     {
-      "theme_name": "AI agents for insurance claims processing",
+      "theme_name": "AI-powered note taking and personal assistants",
+      "signal_strength": "emerging",
+      "deal_count": 4,
+      "example_companies": [
+        "SecondBrain",
+        "Gutta",
+        "Prime Agent",
+        "Good Assistant"
+      ],
+      "why_now": "The increasing demand for automated personal assistants and note-taking tools is driving the development of AI-powered solutions that can learn and adapt to individual user needs.",
+      "contrarian_angle": "The market overlooks the potential of AI-powered note taking and personal assistants to transform the way people manage their daily lives and work, making them more efficient and productive.",
+      "momentum": "accelerating"
+    },
+    {
+      "theme_name": "Private health and wellness tracking platforms",
       "signal_strength": "emerging",
       "deal_count": 2,
       "example_companies": [
-        "K\u0113",
-        "Signal"
+        "Papaya",
+        "Vidaya"
       ],
-      "why_now": "The insurance industry is turning to AI to improve the efficiency and accuracy of claims processing, reducing costs and enhancing customer experience.",
-      "contrarian_angle": "The market overlooks the potential of AI agents to transform the insurance claims process, making it faster, more accurate, and more customer-centric.",
-      "momentum": "steady"
+      "why_now": "The growing concern for personal health and wellness, combined with the need for secure and private data management, is driving the development of private health and wellness tracking platforms.",
+      "contrarian_angle": "The market underestimates the potential of private health and wellness tracking platforms to empower individuals to take control of their health and make informed decisions about their well-being.",
+      "momentum": "new_this_week"
     },
     {
-      "theme_name": "Private AI memory solutions for chatbots",
-      "signal_strength": "emerging",
-      "deal_count": 2,
-      "example_companies": [
-        "Ultramemory",
-        "Memoriq"
-      ],
-      "why_now": "The growing demand for private AI memory solutions is driven by the need for more secure and efficient chatbot interactions.",
-      "contrarian_angle": "The market underestimates the importance of private AI memory solutions in enabling more secure and personalized chatbot experiences.",
-      "momentum": "steady"
-    },
-    {
-      "theme_name": "AI-powered video technology for media",
-      "signal_strength": "emerging",
-      "deal_count": 2,
-      "example_companies": [
-        "Dotmo",
-        "Pixli"
-      ],
-      "why_now": "The media industry is adopting AI-powered video technology to improve content creation, distribution, and monetization.",
-      "contrarian_angle": "The market overlooks the potential of AI-powered video technology to transform the media industry, enabling more efficient and effective content creation and distribution.",
-      "momentum": "steady"
-    },
-    {
-      "theme_name": "Autonomous data analysis for business insights",
+      "theme_name": "AI image generation and editing tools",
       "signal_strength": "moderate",
       "deal_count": 2,
       "example_companies": [
-        "Athenic",
-        "Synopsule"
+        "Grok Imagine",
+        "DocsAlot"
       ],
-      "why_now": "The growing need for autonomous data analysis is driven by the increasing amount of business data and the need for more accurate and timely insights.",
-      "contrarian_angle": "The market underestimates the potential of autonomous data analysis to transform business decision-making, enabling more informed and data-driven decisions.",
+      "why_now": "The increasing demand for high-quality visual content is driving the development of AI image generation and editing tools that can produce professional-grade images and videos.",
+      "contrarian_angle": "The market overlooks the potential of AI image generation and editing tools to democratize access to high-quality visual content, enabling small businesses and individuals to compete with large corporations.",
       "momentum": "steady"
+    },
+    {
+      "theme_name": "AI-powered document creation and maintenance tools",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "DocsAlot",
+        "Soup CLI"
+      ],
+      "why_now": "The growing need for automated content generation and document management is driving the development of AI-powered document creation and maintenance tools.",
+      "contrarian_angle": "The market underestimates the potential of AI-powered document creation and maintenance tools to transform the way businesses and individuals manage their documents and content.",
+      "momentum": "new_this_week"
     },
     {
       "theme_name": "AI training and coaching platforms",
       "signal_strength": "emerging",
-      "deal_count": 1,
+      "deal_count": 2,
       "example_companies": [
-        "Synthesia"
+        "Synthesia",
+        "Prompt Golf"
       ],
-      "why_now": "The growing demand for AI training and coaching platforms is driven by the need for more effective and efficient AI development and deployment.",
-      "contrarian_angle": "The market overlooks the potential of AI training and coaching platforms to improve AI development and deployment, enabling more accurate and reliable AI models.",
+      "why_now": "The increasing demand for AI training and coaching is driving the development of platforms that can provide personalized guidance and support for individuals and businesses.",
+      "contrarian_angle": "The market overlooks the potential of AI training and coaching platforms to empower individuals and businesses to develop the skills they need to succeed in an AI-driven world.",
       "momentum": "new_this_week"
     },
     {
-      "theme_name": "Local AI coding stacks for enterprise",
-      "signal_strength": "moderate",
-      "deal_count": 2,
-      "example_companies": [
-        "In the Weights",
-        "Allbirds"
-      ],
-      "why_now": "The growing need for local AI coding stacks is driven by the need for more secure and efficient AI development and deployment in enterprise environments.",
-      "contrarian_angle": "The market underestimates the potential of local AI coding stacks to transform enterprise AI development and deployment, enabling more secure and efficient AI solutions.",
-      "momentum": "steady"
-    },
-    {
-      "theme_name": "Open source AI research and development",
+      "theme_name": "Voice-native app stores and voice interaction platforms",
       "signal_strength": "emerging",
       "deal_count": 2,
       "example_companies": [
-        "Arcee"
+        "VoiceOS",
+        "AI Group Call"
       ],
-      "why_now": "The growing demand for open source AI research and development is driven by the need for more collaborative and transparent AI development.",
-      "contrarian_angle": "The market overlooks the potential of open source AI research and development to accelerate AI innovation and improve AI accessibility.",
-      "momentum": "steady"
+      "why_now": "The growing adoption of voice assistants and voice interaction platforms is driving the development of voice-native app stores and voice interaction platforms.",
+      "contrarian_angle": "The market underestimates the potential of voice-native app stores and voice interaction platforms to transform the way people interact with technology and access information.",
+      "momentum": "new_this_week"
+    },
+    {
+      "theme_name": "AI-powered mental health and habit control solutions",
+      "signal_strength": "emerging",
+      "deal_count": 2,
+      "example_companies": [
+        "SoloUno",
+        "Good Assistant"
+      ],
+      "why_now": "The growing concern for mental health and wellness is driving the development of AI-powered solutions that can provide personalized support and guidance for individuals.",
+      "contrarian_angle": "The market overlooks the potential of AI-powered mental health and habit control solutions to empower individuals to take control of their mental health and develop healthy habits.",
+      "momentum": "new_this_week"
     }
   ],
-  "biggest_surprise": "The most unexpected pattern is the growing interest in AI-powered content detection and private AI memory solutions, which could indicate a shift towards more secure and efficient AI interactions.",
-  "prediction": "In the next 3-6 months, AI-powered content detection and private AI memory solutions will become a hot Series A thesis, as investors recognize the potential of these technologies to transform the media and chatbot industries. AI training and coaching platforms will also gain traction, enabling more effective and efficient AI development and deployment.",
-  "sectors_cooling": "The biotech and robotics sectors seem to be losing early-stage momentum compared to recent weeks, with fewer deals and less investment activity.",
-  "weak_signals": "Patterns that appear in only 1-2 deals but could be significant if they grow include the use of AI in electric vehicles and the development of anti-smartphone devices, which could indicate a shift towards more sustainable and healthy technology use."
+  "biggest_surprise": "The most unexpected pattern is the emergence of AI-powered note taking and personal assistants, which could revolutionize the way people manage their daily lives and work. Another surprise is the growth of private health and wellness tracking platforms, which could empower individuals to take control of their health and make informed decisions about their well-being.",
+  "prediction": "Based on these earliest-stage signals, AI-powered team collaboration and memory sharing platforms will become a hot Series A thesis in 3-6 months, as companies look for innovative ways to enhance team productivity and knowledge sharing. Additionally, AI-powered note taking and personal assistants will continue to gain traction, transforming the way people manage their daily lives and work.",
+  "sectors_cooling": "The sectors that seem to be losing early-stage momentum compared to recent weeks are autonomous data analysis for business insights and local AI coding stacks for enterprise, which had fewer deals this week.",
+  "weak_signals": "Patterns that appear in only 1-2 deals but could be significant if they grow include AI-powered instant payments networks and AI models for edge devices, which could have a significant impact on the fintech and IoT industries if they gain traction."
 }
